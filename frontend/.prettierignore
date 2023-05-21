@@ -1,0 +1,5 @@
+# production
+/build
+out
+.next
+
