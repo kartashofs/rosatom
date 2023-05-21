@@ -6,8 +6,6 @@
 - Демо (некоторые функции могут быть недоступны в силу недоступности бэкэнда/сервера, в качестве примера берется JSON ответ, полученный от сервера/backend в локальной сети):
 - [https://atomanalytics.vercel.app](https://atomanalytics.vercel.app).
 - Можно ознакомиться с документацией серверной части по ссылке: https://drive.google.com/file/d/13IMTqeLCsIrHfVr8piQamUzsDGeZ_r2q/view?usp=sharing
-- 
-![image](https://github.com/kartashofs/rosatom/assets/41585596/e23213a4-1294-4841-adef-5070cac4b993)
 
 ## Структура директорий
 - Backend: Здесь находится серверная часть, написанная на языке Python. Основной исполняемый файл - Main.py. Для запуска сервера, используйте команду uvicorn в терминале.
